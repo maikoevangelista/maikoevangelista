@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá! Prazer eu sou Maiko Evangelista 👋
 
-<!--
-**maikoevangelista/maikoevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estudo back end ...
+- 🌱 Estudando java ...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/maikoevangelista">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikoevangelista&show_icons=true&theme=drark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikoevangelista&layout=compact&langs_count=7&theme=drark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rafa-React" height="40" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
+</div>
+                                                                    
