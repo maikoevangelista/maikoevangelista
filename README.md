@@ -16,11 +16,9 @@
   <img align="center" alt="Maiko-django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg">
   <img align="center" alt="Maiko-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Maiko-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Maiko-Csharp" height="50" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
-                                                                     
-                                                                                                                                                                                 </div>
-                                                                     
-                                                                     
-##                                                                     
-                                                                     
+  <img align="center" alt="Maiko-Csharp" height="50" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>                    </div>                                                                  
+     ## 
+                                                                                                                                        
+<div                                                               
                                                                     
+</div>
