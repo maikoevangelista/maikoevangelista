@@ -19,6 +19,8 @@
   <img align="center" alt="Maiko-Csharp" height="50" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>                    </div>                                                                  
      ## 
                                                                                                                                         
-<div                                                               
-                                                                    
+</div>
+  
+  ![Snake animation](https://github.com/maikoevangelista/maikoevangelista/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
