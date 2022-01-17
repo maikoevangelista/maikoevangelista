@@ -9,6 +9,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikoevangelista&layout=compact&langs_count=7&theme=drark"/>
 </div>
   
+  ##
+  
+  <div align="center"
   <div style="display: inline_block"><br>
   <img align="center" alt="Maiko-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Maiko-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -16,6 +19,8 @@
   <img align="center" alt="Maiko-django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg">
   <img align="center" alt="Maiko-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Maiko-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Maiko-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+   <img align="center" alt="Maiko-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   </div>                                                                  
   
   ##  
