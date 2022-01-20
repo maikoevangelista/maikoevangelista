@@ -29,4 +29,9 @@
   
   ![Snake animation](https://github.com/maikoevangelista/maikoevangelista/blob/output/github-contribution-grid-snake.svg)
   
+  ##
+  
+  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=maikoevangelista&repo=maikoevangelista&countColorcountColor)
+
+  
 </div>
